@@ -1,0 +1,282 @@
+[
+    {
+        "id": 22,
+        "pname": "omkar",
+        "pnumber": "7249174747",
+        "pemail": "omkar8856@gmail.com",
+        "coupon_code": "WC15",
+        "discount_percent": "20.00",
+        "created_at": "2024-09-26T07:42:05.000Z",
+        "packageTypes": [
+            "parcel",
+            "document"
+        ]
+    },
+    {
+        "id": 28,
+        "pname": "BHARAT MOTORS ",
+        "pnumber": "9822190363",
+        "pemail": "",
+        "coupon_code": "BM15",
+        "discount_percent": "15.00",
+        "created_at": "2024-10-05T05:43:50.000Z",
+        "packageTypes": [
+            "parcel",
+            "document"
+        ]
+    },
+    {
+        "id": 29,
+        "pname": " NJ MOTORS",
+        "pnumber": "9146280187",
+        "pemail": "",
+        "coupon_code": "NJ15",
+        "discount_percent": "20.00",
+        "created_at": "2024-10-05T05:50:47.000Z",
+        "packageTypes": [
+            "document",
+            "parcel"
+        ]
+    },
+    {
+        "id": 31,
+        "pname": "Jay automotive ",
+        "pnumber": "8956923158",
+        "pemail": "Spers.karad@jayautomotive.in",
+        "coupon_code": "Jay15",
+        "discount_percent": "15.00",
+        "created_at": "2024-10-05T09:49:50.000Z",
+        "packageTypes": [
+            "document",
+            "parcel"
+        ]
+    },
+    {
+        "id": 32,
+        "pname": "Anand sales trading corporation ",
+        "pnumber": "9130403034",
+        "pemail": "Anandsalestafee@gmail.com",
+        "coupon_code": "Anand15",
+        "discount_percent": "15.00",
+        "created_at": "2024-10-05T10:03:30.000Z",
+        "packageTypes": [
+            "parcel",
+            "document",
+            "cargo"
+        ]
+    },
+    {
+        "id": 33,
+        "pname": "Sampada Equipment ",
+        "pnumber": "9422405881",
+        "pemail": "Info@sampadaexer.com",
+        "coupon_code": "Sampada15",
+        "discount_percent": "15.00",
+        "created_at": "2024-10-05T10:22:10.000Z",
+        "packageTypes": [
+            "document",
+            "parcel",
+            "cargo"
+        ]
+    },
+    {
+        "id": 34,
+        "pname": "Mangalmurti tractor ",
+        "pnumber": "8329724404",
+        "pemail": "mangalmurtitractors.@gmail.com",
+        "coupon_code": "MT15",
+        "discount_percent": "15.00",
+        "created_at": "2024-10-05T10:37:37.000Z",
+        "packageTypes": [
+            "document",
+            "parcel",
+            "cargo"
+        ]
+    },
+    {
+        "id": 35,
+        "pname": "Yashovruksh agro",
+        "pnumber": "7887745750",
+        "pemail": "Yshovrukshagro@gmail.com",
+        "coupon_code": "Ya15",
+        "discount_percent": "15.00",
+        "created_at": "2024-10-05T10:45:46.000Z",
+        "packageTypes": [
+            "document",
+            "parcel",
+            "cargo"
+        ]
+    },
+    {
+        "id": 36,
+        "pname": "Balsiddh equipment ",
+        "pnumber": "9096933612",
+        "pemail": "",
+        "coupon_code": "Be15",
+        "discount_percent": "15.00",
+        "created_at": "2024-10-05T10:54:08.000Z",
+        "packageTypes": [
+            "document",
+            "parcel",
+            "cargo"
+        ]
+    },
+    {
+        "id": 37,
+        "pname": "Shinde tractors ",
+        "pnumber": "9096979493",
+        "pemail": "Shindetractors@gmail.com",
+        "coupon_code": "St15",
+        "discount_percent": "15.00",
+        "created_at": "2024-10-05T11:16:36.000Z",
+        "packageTypes": [
+            "document",
+            "parcel"
+        ]
+    },
+    {
+        "id": 38,
+        "pname": "Mangalmurti store",
+        "pnumber": "8378835550",
+        "pemail": "",
+        "coupon_code": "Ms20",
+        "discount_percent": "20.00",
+        "created_at": "2024-10-05T11:31:43.000Z",
+        "packageTypes": [
+            "parcel",
+            "cargo",
+            "document"
+        ]
+    },
+    {
+        "id": 39,
+        "pname": "Dhanraj enterprises ",
+        "pnumber": "8180893592",
+        "pemail": "",
+        "coupon_code": "DE20",
+        "discount_percent": "20.00",
+        "created_at": "2024-10-07T07:04:36.000Z",
+        "packageTypes": [
+            "document",
+            "parcel"
+        ]
+    },
+    {
+        "id": 40,
+        "pname": "D.k. brothers ",
+        "pnumber": "7272955955",
+        "pemail": "",
+        "coupon_code": "DK20",
+        "discount_percent": "20.00",
+        "created_at": "2024-10-07T07:14:06.000Z",
+        "packageTypes": [
+            "document",
+            "parcel"
+        ]
+    },
+    {
+        "id": 41,
+        "pname": "mke motors",
+        "pnumber": "7030664545",
+        "pemail": "mkemotorskrd1@gmail.com",
+        "coupon_code": "mke20",
+        "discount_percent": "20.00",
+        "created_at": "2024-10-10T12:14:45.000Z",
+        "packageTypes": [
+            "parcel",
+            "document",
+            "cargo"
+        ]
+    },
+    {
+        "id": 42,
+        "pname": "Digvijay motors  ",
+        "pnumber": "7798885444",
+        "pemail": "",
+        "coupon_code": "Dm20",
+        "discount_percent": "20.00",
+        "created_at": "2024-11-21T07:04:31.000Z",
+        "packageTypes": [
+            "document",
+            "parcel"
+        ]
+    },
+    {
+        "id": 43,
+        "pname": "Perfect auto",
+        "pnumber": "7720092003",
+        "pemail": "",
+        "coupon_code": "Pm20",
+        "discount_percent": "20.00",
+        "created_at": "2024-11-21T07:37:55.000Z",
+        "packageTypes": [
+            "document",
+            "parcel"
+        ]
+    },
+    {
+        "id": 44,
+        "pname": "sadguru automobile",
+        "pnumber": "8275847682",
+        "pemail": "",
+        "coupon_code": "DA20",
+        "discount_percent": "18.00",
+        "created_at": "2024-11-25T08:33:01.000Z",
+        "packageTypes": [
+            "parcel",
+            "document"
+        ]
+    },
+    {
+        "id": 45,
+        "pname": "A J SPORTS ",
+        "pnumber": "9970560330",
+        "pemail": "",
+        "coupon_code": "AJ20",
+        "discount_percent": "20.00",
+        "created_at": "2024-11-25T08:34:23.000Z",
+        "packageTypes": [
+            "parcel",
+            "document"
+        ]
+    },
+    {
+        "id": 46,
+        "pname": "FASHION ZONE ",
+        "pnumber": "9511763407",
+        "pemail": "",
+        "coupon_code": "FZ20",
+        "discount_percent": "20.00",
+        "created_at": "2024-11-25T08:35:10.000Z",
+        "packageTypes": [
+            "parcel",
+            "document"
+        ]
+    },
+    {
+        "id": 47,
+        "pname": "BHARAT AUTO POINT ",
+        "pnumber": "7276046363",
+        "pemail": "",
+        "coupon_code": "BP20",
+        "discount_percent": "20.00",
+        "created_at": "2024-11-25T08:55:15.000Z",
+        "packageTypes": [
+            "document",
+            "parcel"
+        ]
+    },
+    {
+        "id": 48,
+        "pname": "MAYUR GUJARE",
+        "pnumber": "7776969274",
+        "pemail": "",
+        "coupon_code": "MG30",
+        "discount_percent": "30.00",
+        "created_at": "2025-03-08T13:09:42.000Z",
+        "packageTypes": [
+            "document",
+            "parcel"
+        ]
+    }
+]
